@@ -1,6 +1,6 @@
 
 
-# Setup Git Hooks
+## Setup Git Hooks
 
 ```bash
 $ make
